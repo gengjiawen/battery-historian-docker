@@ -1,5 +1,5 @@
 FROM golang:latest
-MAINTAINER bhaavanmerchant@gmail.com
+MAINTAINER technicalcute@gmail.com
 
 RUN apt-get -y update && apt-get install -y openjdk-8-jre-headless
 
